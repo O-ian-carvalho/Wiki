@@ -1,7 +1,7 @@
 Enciclopédia Online tipo Wikipedia
 Introdução
 
-Este é um projeto para desenvolver uma enciclopédia online similar ao Wikipedia, onde os usuários podem encontrar informações sobre uma variedade de tópicos. A enciclopédia será construída usando Markdown como linguagem de marcação para armazenar e editar as entradas.
+Este é um projeto de uma enciclopédia online similar ao Wikipedia, onde os usuários podem encontrar informações sobre uma variedade de tópicos. A enciclopédia será construída usando Markdown como linguagem de marcação para armazenar e editar as entradas.
 Funcionalidades
 
     Entradas da Enciclopédia: Cada entrada da enciclopédia será armazenada em um arquivo Markdown separado.
